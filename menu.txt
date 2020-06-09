@@ -1,0 +1,121 @@
+PIZZA MENU
+
+    >Pasta
+
+    Cheese Macroni Pasta
+    Mashroom Pasta
+    Masala Pasta
+    Cheesy Tomato Twist
+
+    >Pizza
+
+    Garlic Bread(3-Piece)
+    Margherita Pizza
+    GujaraTEA Special Pizza
+    Double Cheese GujaraTEA Pizza
+
+    >try something different
+
+    Cheese balls (6-Pieces)
+    French Fry
+    Cheese Corn Nuggets (6-Pieces)
+    Veggie Finger (6-Pieces)
+
+DRINKS MENU
+
+    >national drinks with milk
+
+        Tea
+        Tandoori Tea
+        Tandoori Tea with Malai
+        GuaraTEA Special Tea
+        Bournvita Tea
+        Chocolate Tea
+        Jaggery Tea (Sugar Free)
+        Coffee
+        Tandoori Coffee
+
+    >national drinks without milk
+
+        Green Tea
+        Green Tea with Honey
+        Black Tea
+        Black Tea with Honey
+        Lemon Tea
+        Lemon Tea with Honey
+        Imperial Early Grey Tea
+        Ayurveda Tea
+        Kashmiri Saffron Kahwa Tea
+        Yoga Tea
+
+
+    >milk shake
+
+        Kesar Elaichi milk
+        Badam Pista Milk
+        Pineapple Milk
+        Bournvita Milk
+        Cocoa
+        Chocolate Milk
+
+    >special drinks
+        Sizzling Brownie (Vanilla)
+
+SNACKS MENU
+
+    >Bhookh ab teri khair nahi
+        Thepla (2-Pieces)
+        Butter Thepla (2-Pieces)
+        Idli Sambhar (2-Pieces)
+        Aloo Paratha
+        Butter Aloo Paratha
+        Cheese Aloo Paratha
+        Cheese Garlic Aloo Paratha
+        Double Cheese Aloo Paratha
+
+    >Maggi
+        Masala Maggi
+        Vegetable Maggi
+        Cheese Vegetable Maggi
+        Garlic Vegetable Maggi
+        Cheese Garlic Vegetable Maggi
+        Schezwan Vegetable Maggi
+        Cheese Schezwan Vegetable Maggi
+        Thousand Vegetable Maggi
+        Cheese Thousand Vegetable Maggi
+        Salsa Vegetable Maggi
+        Cheese Salsa Vegetable Maggi
+        Mayonnaise Vegetable Maggi
+        Cheese Mayonnaise Vegetable Maggi
+----------------Done----------------------
+
+BURGER MENU
+
+    >Burger
+        Vegetable Burger
+        Vegetable Cheese Burger
+    >Sandwich
+        Mix Fruit Jam Slice
+        Pineapple Jam Slice
+        Chocolate Jam Slice
+        Bread Butter Sandwich
+        Cheese Bread Butter Sandwich
+        Vegetable Sandwich
+        Cheese Vegetable Sandwich
+        Mayonnaise Vegetable Sandwich
+        Cheese Mayonnaise Vegetable Sandwich
+        Salsa Vegetable Sandwich
+        Cheese Salsa Vegetable Sandwich
+        Schezwan Vegetable Sandwich
+        Cheese Schezwan Vegetable Sandwich
+        Thousand Vegetable Sandwich
+        Cheese Thousand Vegetable Sandwich
+        Club Sandwich
+
+
+
+
+        
+
+
+
